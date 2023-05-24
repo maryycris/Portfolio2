@@ -1,0 +1,48 @@
+td{
+    width: 4vw;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.noBorder{
+    border: none;
+}
+h1{
+    text-align: center;
+    background-color: #8FBC8F;
+    padding: 5px;
+    font-size: 50px;
+}
+body{
+    background-color: #c4b7a6;
+    margin: 0;
+}
+.orange{
+    background-color: #D2691E;
+}
+.wang{
+    background-color: aqua;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: #ffef96
+
+    ;
+}
+.blue{
+    background-color: #8FBC8F;
+}
+.gg{
+    background-color: #7FFF00;
+}
+.green{
+    background-color: #008000;
+}
+.violet{
+    background-color: #663399;
+}
+.lavender{
+    background-color: #DDA0DD;
+}
