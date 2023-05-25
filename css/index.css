@@ -85,14 +85,6 @@
       display: flex;
       background-color: #000000dc;
   }
-  
-#container .head {
-      margin-top: 60px;
-      color: white;
-      font-size: 2rem;
-      display: flex;
-      text-align: justify;
-}
  
     .card{
     background: beige;
