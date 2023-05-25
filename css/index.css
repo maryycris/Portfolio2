@@ -137,10 +137,14 @@
   
   
   #Activity {
-      display: flex;
-      flex-direction: column;
-      background-color: #000000dc;
-      height: 650px;
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      background-image: url("../images/ragud.jpg") no-repeat center center/cover;
+      height: 700px;
+      width: 100%;
+      z-index: -1;
   }
   
   #Activity .head2{
