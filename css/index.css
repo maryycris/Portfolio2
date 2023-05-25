@@ -62,7 +62,7 @@
       position: absolute;
       top: 0;
       left: 0;
-      background: url("Sirenik.jpg") no-repeat center center/cover;
+      background: url("images/Sirenik.jpg") no-repeat center center/cover;
       height: 700px;
       width: 100%;
       z-index: -1;
@@ -116,14 +116,14 @@
     }
     
     .car-1{
-    background-image: url(manatad1.jpg);
+    background-image: url(images/1.jpg);
     }
     .car-2{
-    background-image: url(cath2.jpg);
+    background-image: url(images/cath2.jpg);
    
     }
     .car-3{
-    background-image: url(camasura3.jpg);
+    background-image: url(images/camasura3.jpg);
     }
     
     .card p{
